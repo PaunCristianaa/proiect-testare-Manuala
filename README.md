@@ -39,6 +39,6 @@
 ![Test condition](https://github.com/PaunCristianaa/proiect-testare-Manuala/blob/main/Captur%C4%83%20de%20ecran%202023-05-05%20193406.png)
 
 
-![test cases](link imagine)
+Test cases [test cases nr 1](https://github.com/PaunCristianaa/proiect-testare-Manuala/blob/main/Captur%C4%83%20de%20ecran%202023-05-05%20193406.png)
 
 
