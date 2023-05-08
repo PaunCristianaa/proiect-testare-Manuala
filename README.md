@@ -1,6 +1,11 @@
-# proiecti-final
-### test design
-<h2> test plan </h2 > 
+# Proiect pentru cursul de testare manuala ITF
+<h2> 1.1 Project Objective </h2 > 
+
+   #### The scope of the final project for ITF Manual Testing Course is to use all gained knowledge through the course and apply them in practice,using a live application.
+
+
+
+
 
 | Rol | Name  |
 |---|---|
