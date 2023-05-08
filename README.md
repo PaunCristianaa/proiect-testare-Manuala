@@ -1,12 +1,28 @@
 # Proiect pentru cursul de testare manuala ITF
-<h2> 1.1 Project Objective </h2 > 
 
-   #### The scope of the final project for ITF Manula Testing course is to use all gained knowledge throug the course and apply them in practice,using a live application.
-   #### Application under test: [ https://opensource-demo.orangehrmlive.com/web/index.php/auth/login](https://duckduckgo.com)
-   be only on Admin module
+<h2>1.Introduction </h2>
+This test plan document describes the strategies,process,workflows and methodologies  used to plan, organize, execute and manage testing process for OrangeHRM.
+
+
+<h3> 1.1 Project Objective </h3 > 
+
+   ##### The scope of the final project for ITF Manula Testing course is to use all gained knowledge throug the course and apply them in practice,using a live application.
+   ##### Application under test: [ https://opensource-demo.orangehrmlive.com/web/index.php/auth/login](https://duckduckgo.com)
    
+ 
    Application documentation:
    [https://www.orangehrm.com/assets/Files/Complete-Administrative-User-Guide.pdf?url=/Files/Complete-Administrative-User-Guide.pdf](https://duckduckgo.com)
+   
+   Te final project will be split into 2 section:Testing Section and SQL section.
+   
+   Tools: Jira, Postman, MySQL
+   
+  <h2> 1.2 Functionalities in scope </h2 > 
+ 
+    #### The below Story was created in JIRA and describes the functional specifications of the Salary module, for which the final project is performed upon.
+
+   
+   
 
 
 
