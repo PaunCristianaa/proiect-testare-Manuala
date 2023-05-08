@@ -1,4 +1,4 @@
-# proiect-testare-manuala
+# proiecti-final
 ### test design
 <h2> test plan </h2 > 
 
