@@ -17,12 +17,15 @@ This test plan document describes the strategies,process,workflows and methodolo
    
    Tools: Jira, Postman, MySQL
    
-  <h2> 1.2 Functionalities in scope </h2 > 
- 
-    #### The below Story was created in JIRA and describes the functional specifications of the Salary module, for which the final project is performed upon.
+  <h3> 1.2 Functionalities in scope </h3 > 
+  
+   The below Story was created in JIRA and describes the functional specifications of the Salary module, for which the final project is performed upon.
 
    
    
+
+
+
 
 
 
