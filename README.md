@@ -2,7 +2,11 @@
 <h2> 1.1 Project Objective </h2 > 
 
    #### The scope of the final project for ITF Manula Testing course is to use all gained knowledge throug the course and apply them in practice,using a live application.
-   #### Application under test:
+   #### Application under test: [ https://opensource-demo.orangehrmlive.com/web/index.php/auth/login](https://duckduckgo.com)
+   be only on Admin module
+   
+   Application documentation:
+   [https://www.orangehrm.com/assets/Files/Complete-Administrative-User-Guide.pdf?url=/Files/Complete-Administrative-User-Guide.pdf](https://duckduckgo.com)
 
 
 
