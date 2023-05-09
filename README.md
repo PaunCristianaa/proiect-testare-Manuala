@@ -30,6 +30,10 @@ This test plan document describes the strategies,process,workflows and methodolo
 
 
 
+
+
+
+         DE AICI SUNT LUCRURILE FACUTE LA CURS
 | Rol | Name  |
 |---|---|
 | prodact owner | Anca Pop |
